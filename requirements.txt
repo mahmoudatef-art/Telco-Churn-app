@@ -1,8 +1,7 @@
 streamlit
 pandas
-scikit-learn
 numpy
+scikit-learn
 joblib
-pickle
 xgboost
-lighgbm
+lightgbm
